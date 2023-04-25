@@ -1,2 +1,2 @@
-# LAB1
-Elementos de nivel de bloque y en línea
+# LABS
+Todos mis laboratorios
